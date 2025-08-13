@@ -33,3 +33,24 @@ Model               Accuracy  Precision Recall    F1-score
 Custom CNN          66.63     0.67      0.67      0.66      
 Augmented CNN       65.86     0.66      0.66      0.65      
 MobileNetV2 TL      79.70     0.81      0.80      0.80 
+Usage
+To use this code, follow these steps:
+
+1. Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+2. Navigate to the project directory: cd your-repo-name
+3. Install the required dependencies (see below)
+4. Run the preprocessing script: python preprocessing.py
+5. Train the model: python train.py
+6. Evaluate the model: python evaluate.py
+7. Make predictions: python predict.py
+
+Dependencies
+This project requires the following dependencies:
+
+- Python 3.x
+- TensorFlow 2.x
+- Keras
+- OpenCV
+- NumPy
+- Matplotlib
+- Scikit-lear
