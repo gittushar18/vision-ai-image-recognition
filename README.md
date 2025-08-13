@@ -28,6 +28,7 @@ We leverage **MobileNetV2** for feature extraction and fine-tuning to achieve ef
 ---
 
 Final Model Performance Table:
+
 Model               Accuracy  Precision Recall    F1-score  
 Custom CNN          66.63     0.67      0.67      0.66      
 Augmented CNN       65.86     0.66      0.66      0.65      
