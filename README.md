@@ -36,7 +36,7 @@ MobileNetV2 TL      79.70     0.81      0.80      0.80
 Usage
 To use this code, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+1. Clone the repository: git clone https://github.com/gittushar.18/vision-ai-image-recognition.git
 2. Navigate to the project directory: cd your-repo-name
 3. Install the required dependencies (see below)
 4. Run the preprocessing script: python preprocessing.py
